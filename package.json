@@ -27,9 +27,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Behave full",
+                "label": "Behave-full",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Behave full-color-theme.json"
+                "path": "./themes/Behave-full-color-theme.json"
             }
         ]
     }
